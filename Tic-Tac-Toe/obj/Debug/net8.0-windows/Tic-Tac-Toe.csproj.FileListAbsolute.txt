@@ -1,0 +1,16 @@
+C:\Users\Saeed\Documents\OwnProjects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net8.0-windows\Tic-Tac-Toe.exe
+C:\Users\Saeed\Documents\OwnProjects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net8.0-windows\Tic-Tac-Toe.deps.json
+C:\Users\Saeed\Documents\OwnProjects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net8.0-windows\Tic-Tac-Toe.runtimeconfig.json
+C:\Users\Saeed\Documents\OwnProjects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net8.0-windows\Tic-Tac-Toe.dll
+C:\Users\Saeed\Documents\OwnProjects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net8.0-windows\Tic-Tac-Toe.pdb
+C:\Users\Saeed\Documents\OwnProjects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic_Tac_Toe.Form1.resources
+C:\Users\Saeed\Documents\OwnProjects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\Saeed\Documents\OwnProjects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saeed\Documents\OwnProjects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.AssemblyInfoInputs.cache
+C:\Users\Saeed\Documents\OwnProjects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.AssemblyInfo.cs
+C:\Users\Saeed\Documents\OwnProjects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\Saeed\Documents\OwnProjects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.dll
+C:\Users\Saeed\Documents\OwnProjects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\refint\Tic-Tac-Toe.dll
+C:\Users\Saeed\Documents\OwnProjects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.pdb
+C:\Users\Saeed\Documents\OwnProjects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.genruntimeconfig.cache
+C:\Users\Saeed\Documents\OwnProjects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\ref\Tic-Tac-Toe.dll
