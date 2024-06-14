@@ -34,7 +34,7 @@ If you prefer to run the game directly, an executable file is available in the b
 
 ## How to play
 
-1. If you are the starter, click on any button to place your mark (X).
+1. If you go first, click on any button to place your mark (X).
 2. The AI will make its move (O) automatically.
 3. Continue until there is a winner or the game is a draw.
 4. The game will display a message indicating the result and will restart automatically.
