@@ -11,7 +11,7 @@ This repository contains a simple Tic Tac Toe game created in C#, where you can 
 
 ## Screenshot
 
-![Tic Tac Toe Game Screenshot](images/tic-tac-toe-screenshot.png)
+![Tic Tac Toe Game Screenshot](Tic-Tac-Toe/images/tic-tac-toe-screenshot.png)
 
 ## Prerequisites
 
